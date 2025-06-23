@@ -105,6 +105,6 @@ This software is maintained by members of the Breuer Lab at Brown University.
 
 ## 👥 Authors
 
-- [Karunmay Aggarwal](https://karunmay.com) – Software Developer & Undergraduate Researcher
+- [Karunmay Aggarwal](https://karunmay.com) – Mechanical Designer & Software Developer 
 - [Rehaan Irani](https://www.linkedin.com/in/rehaanirani/) - Mechanical Designer
 - [Kenny Breuer](https://vivo.brown.edu/display/kbreuer) – Principal Investigator, Prof. of Engineering
