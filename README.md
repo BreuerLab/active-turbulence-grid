@@ -1,6 +1,6 @@
 # Active Turbulence Grid (ATG) Control Software
 
-This repository contains the software used to control the **Active Turbulence Grid (ATG)** developed in the [**Breuer Lab**](https://sites.brown.edu/breuerlab/) at Brown University**. The software interfaces C++ motor control libraries with MATLAB using the MEX framework, allowing precise and programmable control of the ATG through MATLAB commands.
+This repository contains the software used to control the **Active Turbulence Grid (ATG)** developed in the [**Breuer Lab**](https://sites.brown.edu/breuerlab/) at Brown University. The software interfaces C++ motor control libraries with MATLAB using the MEX framework, allowing precise and programmable control of the ATG through MATLAB commands.
 
 ---
 
