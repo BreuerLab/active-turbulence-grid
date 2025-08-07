@@ -1,12 +1,3 @@
-Example-Motion
-======================
-
-This is an example for a network of ClearPath SC nodes. This example will open all connected SC-Hub boards, and home each motor which has had homing defined through the ClearView setup software
-
-Requirements:
-
--This program may execute motion on some or all nodes, nodes should be configured through the ClearView software.
-
-
-
-Example-Homing.cpp - This is the main function for the program. It holds a reference to the system manager of the network and Port and Node objects. 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0866f70d8eaf7b8640382b76f27dec36fac3cb6222664de038f57dac85d9fe02
+size 526

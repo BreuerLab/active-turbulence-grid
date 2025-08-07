@@ -1,6 +1,3 @@
-﻿  Copying sFoundation Files
-  cwd=C:\Users\karun\OneDrive\Desktop\ATG Software\sdk\examples\ srcArch=x64 srcConfig=Debug dllDir=..\sFoundation Source\sFoundation\win\Debug\x64 destDir="C:\Users\karun\OneDrive\Desktop\ATG Software\sdk\examples\3a-Example-Motion\x64\Debug\"
-          1 file(s) copied.
-          1 file(s) copied.
-          1 file(s) copied.
-  Example-Motion.vcxproj -> C:\Users\karun\OneDrive\Desktop\ATG Software\sdk\examples\3a-Example-Motion\x64\Debug\Example-Motion.exe
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b856ff070fa387907dca744d79eea996dec09645b74eb8151c5934ea924a44e
+size 499

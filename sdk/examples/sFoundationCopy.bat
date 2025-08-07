@@ -1,21 +1,3 @@
-@echo off
-REM USAGE: <Architecture> <Config> <DestDir>
-set cwdDir=%~dp0
-set srcArch=%1
-pushd "%cwdDir%"
-set srcConfig=%2
-set destDir=%3
-set devDir=..\sFoundation\win\%srcConfig%\%srcArch%\
-REM Developer or End-User Mode?
-if exist "%devDir%" (
-set dllDir=%devDir%
-set devRoot=..\sFoundation
-) else (
-set dllDir=..\sFoundation Source\sFoundation\win\%srcConfig%\%srcArch%
-set devRoot=..\lib\win\Release\win32
-)
-echo cwd=%cwdDir% srcArch=%1 srcConfig=%2 dllDir=%dllDir% destDir=%3
-copy /y "%dllDir%\sFoundation20.dll" %destDir%
-copy /y "%dllDir%\sFoundation20.lib" %destDir%
-copy /y "%devRoot%\MNuserDriver20.xml" %destDir%
-popd
+version https://git-lfs.github.com/spec/v1
+oid sha256:a796d989c998138883015a3263fab38fe686139d7be0f34300aa4fe895ff586a
+size 647

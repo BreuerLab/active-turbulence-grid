@@ -1,11 +1,3 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project>
-  <ProjectOutputs>
-    <ProjectOutput>
-      <FullPath>C:\Users\karun\OneDrive\Desktop\ATG Software\sdk\examples\3a-Example-Motion\x64\Debug\Example-Motion.exe</FullPath>
-    </ProjectOutput>
-  </ProjectOutputs>
-  <ContentFiles />
-  <SatelliteDlls />
-  <NonRecipeFileRefs />
-</Project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2375413ca092dd1fa4edcf1d956e42518371213d53ffd50bd983389f561249d4
+size 347
